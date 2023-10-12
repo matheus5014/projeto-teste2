@@ -20,7 +20,7 @@ body{
 
 header{
     background-image: linear-gradient(to bottom, #020202, #262626);
-    height: 120px;
+    height: 220px;
     padding: 30px;
     margin: auto;
 }
@@ -28,7 +28,7 @@ header{
 header > h1{
     font-family: 'Bebas Neue', sans-serif;
     color: white;
-    font-size: 2.5em;
+    font-size: 6em;
     text-align: center;
     text-shadow: 2px 2px 2px #e8e8e8be;
     padding: 20px;
@@ -38,7 +38,7 @@ header > p{
     font-family: 'Bebas Neue', sans-serif;
     color: white;
     text-align: center;
-    font-size: .9em;
+    font-size: 1.9em;
     padding-top: 5px;
 }
 
@@ -93,12 +93,12 @@ article > p{
 }
 
 main{
-    padding: 10px;
+    margin: 40px;
 }
 
 section { 
     width: 100%;
-    height: 310px;     
+    height: 210px;     
     margin-top: 10px;
     
 }
@@ -126,7 +126,6 @@ section > div > p{
     font-size: large;
     padding: 5px;
     text-indent: 30px;
-    padding-top: 60px;
 }
 
 main > section > div.lambor{
